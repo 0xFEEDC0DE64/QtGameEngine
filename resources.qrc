@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/EngineTest">
+        <file>images/actionCopy.png</file>
+        <file>images/actionCut.png</file>
+        <file>images/actionNew.png</file>
+        <file>images/actionOpen.png</file>
+        <file>images/actionPaste.png</file>
+        <file>images/actionPause.png</file>
+        <file>images/actionQuit.png</file>
+        <file>images/actionRedo.png</file>
+        <file>images/actionRun.png</file>
+        <file>images/actionSave.png</file>
+        <file>images/actionSaveAs.png</file>
+        <file>images/actionStop.png</file>
+        <file>images/actionUndo.png</file>
+    </qresource>
+</RCC>
